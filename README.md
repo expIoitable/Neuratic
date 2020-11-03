@@ -5,12 +5,15 @@ Neuratic is an open source OSint tool designed to find information about a targe
 In order to install the tool, Run the following commands.
 
 For Linux:
+
 `git clone https://github.com/expIoitable/Neuratic`
+
 `cd Neuratic`
+
 `python3 -m pip install Requirements.txt`
 
 For Windows:
-For Linux:
+
 `git clone https://github.com/expIoitable/Neuratic`
 
 `cd Neuratic`
