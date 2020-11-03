@@ -12,7 +12,9 @@ For Linux:
 For Windows:
 For Linux:
 `git clone https://github.com/expIoitable/Neuratic`
+
 `cd Neuratic`
+
 `py3 -m pip install Requirements.txt`
 
 In order to use the tool, you will have to edit "Config.py", and enter your mailboxlayer API key.
